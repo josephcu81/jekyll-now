@@ -14,6 +14,6 @@ title: SublimeText3 설치 및 설정(Windows10)
   2.  다운로드 완료 후 설치 파일을 실행하며, 특별한 설정은 필요하지 않다.
 
 
-> > [Sublime Text 3 다운로드 page](https://www.sublimetext.com/3 "다운로드 Url") 
+[Sublime Text 3 다운로드 page](https://www.sublimetext.com/3 "다운로드 Url") 
 
 
