@@ -8,8 +8,13 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
+*   G2E Infomation Tech / Manager
+*   Web Developer & pre Architecture
+*	JAVA, javascript, css, html
+*	Spring framework, nodeJS, Jquery
+*	Oracle, PostgreSQL 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[josephcu81@gmail.com](mailto:josephcu81@gmail.com)
